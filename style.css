@@ -1,0 +1,75 @@
+.navbar-btn {
+    background-color: rgb(5, 102, 105);
+    border-color:rgb(5, 102, 105);
+   font-size: 30px;
+   font-weight: bold;
+}
+
+.body{
+    color:lightgrey;
+}
+.container {
+    background-color:floralwhite;
+    border-bottom-color: rgb(5, 102, 105);
+    border-bottom-style: solid;
+    border-bottom-width: 5px;
+}
+
+.card{
+    border:1px;
+    border-style: solid;
+    border-color:beige;
+    }
+
+    .h1{
+        font-size: 40px;
+    color:rgb(5, 102, 105);
+    font-style: oblique;
+    font-weight: bold;
+    padding:15px;
+    }
+    .h3 {
+        font-size: 20px;
+        color:rgb(5, 102, 105);
+        font-style: oblique;
+        font-weight: bold;
+        padding:15px;
+        text-align: center;
+    }
+.card-header{
+    font-size: 30px;
+    color:rgb(5, 102, 105);
+    font-style: oblique;
+    font-weight: bold;
+    padding:15px;
+    border-bottom-color:lightgray;
+}
+.card-body{
+    padding: 30px;
+    font-size: 14px;
+}
+.img-card{
+    float:left;
+    width:200px; 
+    height:200px;
+    margin-right: 20px;
+    margin-left: 10px;
+}
+
+.row-pad {
+   padding: 40px;
+}
+.panel-body {  
+    padding-top:30px;
+    padding-bottom:  30px;
+    }
+
+.img-panel {
+    padding: 5px;
+    width:125px ;
+    height:125px; 
+  }
+
+  .active{
+    border: 3px solid rgb(5, 102, 105);
+  }
